@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\obj\Debug\SnakeW6.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\obj\Debug\SnakeW6.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\bin\Debug\SnakeW6.exe.config
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\bin\Debug\SnakeW6.exe
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\bin\Debug\SnakeW6.pdb
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\obj\Debug\SnakeW6.exe
+C:\Users\delya\source\repos\SnakeW6\SnakeW6\obj\Debug\SnakeW6.pdb

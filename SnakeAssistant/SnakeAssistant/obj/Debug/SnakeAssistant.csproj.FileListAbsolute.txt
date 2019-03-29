@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\obj\Debug\SnakeAssistant.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\obj\Debug\SnakeAssistant.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\bin\Debug\SnakeAssistant.exe.config
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\bin\Debug\SnakeAssistant.exe
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\bin\Debug\SnakeAssistant.pdb
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\obj\Debug\SnakeAssistant.exe
+C:\Users\delya\source\repos\SnakeAssistant\SnakeAssistant\obj\Debug\SnakeAssistant.pdb
